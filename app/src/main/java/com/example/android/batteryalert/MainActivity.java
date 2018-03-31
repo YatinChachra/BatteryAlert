@@ -220,6 +220,8 @@ public class MainActivity extends AppCompatActivity {
 
 }
 
+//Battery Thread class
+
 class BatteryThread extends Thread
 {
     BatteryThread(String name)
